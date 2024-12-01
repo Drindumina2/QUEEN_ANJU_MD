@@ -6,11 +6,11 @@ module.exports = {
   "BOT_NUMBER": "94762912642",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
-  "AUTO_VOICE": false,
-  "AUTO_STICKER": false,
+  "AUTO_VOICE": true,
+  "AUTO_STICKER": true,
   "AUTO_REPLY": true,
   "AUTO_REACT": false,
-  "WELCOME": false,
+  "WELCOME": true,
   "ANTI_BAD": false,
   "ANTI_BOT": true,
   "ANTI_LINK": true,
@@ -23,5 +23,5 @@ module.exports = {
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false,
   "OWNER_REACT": true,
-  "EMOJI": "🏷"
+  "EMOJI": "🗿"
 };
